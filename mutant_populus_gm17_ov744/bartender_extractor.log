@@ -1,0 +1,333 @@
+Totally there are 313942 reads in 109_R1_001.fastq file!
+Totally there are 103539 valid barcodes from 109_R1_001.fastq file
+Totally there are 101958 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00182057
+00:00:17Running bartender extractor
+both
+bartender_extractor 109_R1_001.fastq 109_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 538129 reads in 110_R1_001.fastq file!
+Totally there are 289373 valid barcodes from 110_R1_001.fastq file
+Totally there are 285180 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00176589
+00:00:32Running bartender extractor
+both
+bartender_extractor 110_R1_001.fastq 110_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 575538 reads in 111_R1_001.fastq file!
+Totally there are 370818 valid barcodes from 111_R1_001.fastq file
+Totally there are 366108 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00166389
+00:00:32Running bartender extractor
+both
+bartender_extractor 111_R1_001.fastq 111_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 848361 reads in 112_R1_001.fastq file!
+Totally there are 615500 valid barcodes from 112_R1_001.fastq file
+Totally there are 607674 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00167149
+00:00:51Running bartender extractor
+both
+bartender_extractor 112_R1_001.fastq 112_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1165973 reads in 113_R1_001.fastq file!
+Totally there are 779546 valid barcodes from 113_R1_001.fastq file
+Totally there are 769911 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00158041
+00:01:04Running bartender extractor
+both
+bartender_extractor 113_R1_001.fastq 113_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1972679 reads in 114_R1_001.fastq file!
+Totally there are 1672817 valid barcodes from 114_R1_001.fastq file
+Totally there are 1649365 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00174388
+00:01:58Running bartender extractor
+both
+bartender_extractor 114_R1_001.fastq 114_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1812101 reads in 115_R1_001.fastq file!
+Totally there are 1574073 valid barcodes from 115_R1_001.fastq file
+Totally there are 1553278 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00170335
+00:01:43Running bartender extractor
+both
+bartender_extractor 115_R1_001.fastq 115_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 610596 reads in 116_R1_001.fastq file!
+Totally there are 355198 valid barcodes from 116_R1_001.fastq file
+Totally there are 349080 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.0016892
+00:00:34Running bartender extractor
+both
+bartender_extractor 116_R1_001.fastq 116_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 417108 reads in 117_R1_001.fastq file!
+Totally there are 140944 valid barcodes from 117_R1_001.fastq file
+Totally there are 138959 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00250951
+00:00:23Running bartender extractor
+both
+bartender_extractor 117_R1_001.fastq 117_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1675372 reads in 118_R1_001.fastq file!
+Totally there are 1328918 valid barcodes from 118_R1_001.fastq file
+Totally there are 1309731 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00170424
+00:01:30Running bartender extractor
+both
+bartender_extractor 118_R1_001.fastq 118_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 468759 reads in 119_R1_001.fastq file!
+Totally there are 126154 valid barcodes from 119_R1_001.fastq file
+Totally there are 124117 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00146725
+00:00:26Running bartender extractor
+both
+bartender_extractor 119_R1_001.fastq 119_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 849285 reads in 120_R1_001.fastq file!
+Totally there are 319818 valid barcodes from 120_R1_001.fastq file
+Totally there are 315218 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00165282
+00:00:47Running bartender extractor
+both
+bartender_extractor 120_R1_001.fastq 120_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1304091 reads in 121_R1_001.fastq file!
+Totally there are 1071222 valid barcodes from 121_R1_001.fastq file
+Totally there are 1056945 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00183249
+00:01:09Running bartender extractor
+both
+bartender_extractor 121_R1_001.fastq 121_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 806690 reads in 122_R1_001.fastq file!
+Totally there are 616567 valid barcodes from 122_R1_001.fastq file
+Totally there are 608629 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00357885
+00:00:43Running bartender extractor
+both
+bartender_extractor 122_R1_001.fastq 122_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1206923 reads in 123_R1_001.fastq file!
+Totally there are 951593 valid barcodes from 123_R1_001.fastq file
+Totally there are 939092 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00155981
+00:01:12Running bartender extractor
+both
+bartender_extractor 123_R1_001.fastq 123_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1032634 reads in 124_R1_001.fastq file!
+Totally there are 827994 valid barcodes from 124_R1_001.fastq file
+Totally there are 817162 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.0015953
+00:00:57Running bartender extractor
+both
+bartender_extractor 124_R1_001.fastq 124_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 624272 reads in 125_R1_001.fastq file!
+Totally there are 387615 valid barcodes from 125_R1_001.fastq file
+Totally there are 381715 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00172594
+00:00:34Running bartender extractor
+both
+bartender_extractor 125_R1_001.fastq 125_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1079832 reads in 126_R1_001.fastq file!
+Totally there are 824713 valid barcodes from 126_R1_001.fastq file
+Totally there are 814783 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00178741
+00:00:50Running bartender extractor
+both
+bartender_extractor 126_R1_001.fastq 126_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 526139 reads in 127_R1_001.fastq file!
+Totally there are 104935 valid barcodes from 127_R1_001.fastq file
+Totally there are 103219 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00157526
+00:00:28Running bartender extractor
+both
+bartender_extractor 127_R1_001.fastq 127_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1014446 reads in 128_R1_001.fastq file!
+Totally there are 528972 valid barcodes from 128_R1_001.fastq file
+Totally there are 522433 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.001498
+00:01:07Running bartender extractor
+both
+bartender_extractor 128_R1_001.fastq 128_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 826320 reads in 129_R1_001.fastq file!
+Totally there are 583644 valid barcodes from 129_R1_001.fastq file
+Totally there are 575373 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00179099
+00:00:47Running bartender extractor
+both
+bartender_extractor 129_R1_001.fastq 129_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1222917 reads in 130_R1_001.fastq file!
+Totally there are 634305 valid barcodes from 130_R1_001.fastq file
+Totally there are 625021 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00180875
+00:01:05Running bartender extractor
+both
+bartender_extractor 130_R1_001.fastq 130_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1436462 reads in 131_R1_001.fastq file!
+Totally there are 1120354 valid barcodes from 131_R1_001.fastq file
+Totally there are 1104522 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00161449
+00:01:22Running bartender extractor
+both
+bartender_extractor 131_R1_001.fastq 131_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1621025 reads in 132_R1_001.fastq file!
+Totally there are 1246441 valid barcodes from 132_R1_001.fastq file
+Totally there are 1228949 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00171552
+00:01:35Running bartender extractor
+both
+bartender_extractor 132_R1_001.fastq 132_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 343631 reads in 133_R1_001.fastq file!
+Totally there are 76081 valid barcodes from 133_R1_001.fastq file
+Totally there are 74992 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00296658
+00:00:19Running bartender extractor
+both
+bartender_extractor 133_R1_001.fastq 133_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 790620 reads in 134_R1_001.fastq file!
+Totally there are 469417 valid barcodes from 134_R1_001.fastq file
+Totally there are 463562 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00164843
+00:00:41Running bartender extractor
+both
+bartender_extractor 134_R1_001.fastq 134_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1418853 reads in 135_R1_001.fastq file!
+Totally there are 1201110 valid barcodes from 135_R1_001.fastq file
+Totally there are 1185564 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00161817
+00:01:16Running bartender extractor
+both
+bartender_extractor 135_R1_001.fastq 135_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1177348 reads in 136_R1_001.fastq file!
+Totally there are 951400 valid barcodes from 136_R1_001.fastq file
+Totally there are 938949 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00164904
+00:01:01Running bartender extractor
+both
+bartender_extractor 136_R1_001.fastq 136_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 996120 reads in 137_R1_001.fastq file!
+Totally there are 705728 valid barcodes from 137_R1_001.fastq file
+Totally there are 696786 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00151716
+00:00:59Running bartender extractor
+both
+bartender_extractor 137_R1_001.fastq 137_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 806307 reads in 138_R1_001.fastq file!
+Totally there are 507490 valid barcodes from 138_R1_001.fastq file
+Totally there are 499794 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00231138
+00:00:43Running bartender extractor
+both
+bartender_extractor 138_R1_001.fastq 138_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 671436 reads in 139_R1_001.fastq file!
+Totally there are 422520 valid barcodes from 139_R1_001.fastq file
+Totally there are 417067 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.0015817
+00:00:38Running bartender extractor
+both
+bartender_extractor 139_R1_001.fastq 139_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1127243 reads in 140_R1_001.fastq file!
+Totally there are 624505 valid barcodes from 140_R1_001.fastq file
+Totally there are 616814 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00157773
+00:01:12Running bartender extractor
+both
+bartender_extractor 140_R1_001.fastq 140_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 938751 reads in 141_R1_001.fastq file!
+Totally there are 654407 valid barcodes from 141_R1_001.fastq file
+Totally there are 645141 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.0017535
+00:01:00Running bartender extractor
+both
+bartender_extractor 141_R1_001.fastq 141_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 850396 reads in 142_R1_001.fastq file!
+Totally there are 557893 valid barcodes from 142_R1_001.fastq file
+Totally there are 550630 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00164153
+00:00:46Running bartender extractor
+both
+bartender_extractor 142_R1_001.fastq 142_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1274169 reads in 143_R1_001.fastq file!
+Totally there are 830074 valid barcodes from 143_R1_001.fastq file
+Totally there are 813066 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00185959
+00:01:09Running bartender extractor
+both
+bartender_extractor 143_R1_001.fastq 143_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1017255 reads in 144_R1_001.fastq file!
+Totally there are 573787 valid barcodes from 144_R1_001.fastq file
+Totally there are 566268 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00156539
+00:00:56Running bartender extractor
+both
+bartender_extractor 144_R1_001.fastq 144_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 1487827 reads in 148_R1_001.fastq file!
+Totally there are 1446386 valid barcodes from 148_R1_001.fastq file
+Totally there are 1421377 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00205512
+00:01:18Running bartender extractor
+both
+bartender_extractor 148_R1_001.fastq 148_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
