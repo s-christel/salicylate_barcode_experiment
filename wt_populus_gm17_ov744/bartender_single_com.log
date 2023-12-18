@@ -1,0 +1,952 @@
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 073_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  4015
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 905 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 073_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 905
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00125136
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 074_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  9968
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2312 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 074_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2312
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0011836
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 075_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  21062
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 3489 barcodes with length 20
+The clustering process takes 00:00:01
+Start to dump clusters to file with prefix 075_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 3489
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00120994
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 076_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  5005
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2247 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 076_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2247
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0045572
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 077_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  4698
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1032 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 077_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1032
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00118705
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 078_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  16544
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 3486 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 078_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 3486
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00121055
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 079_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  24988
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 5452 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 079_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 5452
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00127056
+The overall running time 00:00:05 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 080_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12012
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2389 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 080_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2389
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00122604
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 081_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  16998
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2789 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 081_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2789
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00122936
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 082_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  26721
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 4137 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 082_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 4137
+The estimated error rate is 0.00126436
+The overall running time 00:00:06 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 083_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  19848
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2943 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 083_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2943
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00123984
+The overall running time 00:00:05 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:02 to load the barcodes from 084_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  57176
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10388 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 084_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10388
+The estimated error rate is 0.00152613
+The overall running time 00:00:12 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 085_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  3147
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 815 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 085_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 815
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0012962
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 086_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  6365
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2014 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 086_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2014
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0012196
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 087_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  10206
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2408 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 087_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2408
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00121375
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 088_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12001
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2096 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 088_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2096
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00121767
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 089_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  27926
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 7821 barcodes with length 20
+The clustering process takes 00:00:01
+Start to dump clusters to file with prefix 089_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 7821
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00136374
+The overall running time 00:00:07 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 090_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  16906
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 4128 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 090_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 4128
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0012771
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 091_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  20322
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 5129 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 091_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 5129
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00132244
+The overall running time 00:00:05 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 092_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  13890
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2516 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 092_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2516
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00132596
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 093_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  22941
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 4557 barcodes with length 20
+The clustering process takes 00:00:01
+Start to dump clusters to file with prefix 093_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 4557
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00133214
+The overall running time 00:00:06 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 094_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  3035
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 682 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 094_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 682
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00119629
+The overall running time 00:00:00 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 095_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  8240
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1588 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 095_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1588
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00125532
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:02 to load the barcodes from 096_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  53622
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10461 barcodes with length 20
+The clustering process takes 00:00:01
+Start to dump clusters to file with prefix 096_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10461
+The estimated error rate is 0.00158282
+The overall running time 00:00:12 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 097_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14025
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1704 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 097_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1704
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00205796
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 098_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15309
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1740 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 098_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1740
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00160422
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 099_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12863
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1392 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 099_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1392
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00131441
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 100_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  27821
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 3195 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 100_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 3195
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00429951
+The overall running time 00:00:05 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 101_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  13983
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1399 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 101_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1399
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00129144
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 102_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  19365
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1918 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 102_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1918
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0016927
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:02 to load the barcodes from 103_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  44801
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 4197 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 103_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 4197
+The estimated error rate is 0.00237933
+The overall running time 00:00:10 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 104_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  10922
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1104 barcodes with length 20
+The clustering process takes 00:00:01
+Start to dump clusters to file with prefix 104_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1104
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00123878
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 105_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  9595
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1001 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 105_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1001
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00110904
+The overall running time 00:00:03 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 106_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  22520
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 2954 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 106_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 2954
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00150615
+The overall running time 00:00:05 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 107_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14366
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 1784 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 107_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 1784
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00138179
+The overall running time 00:00:04 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 108_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  11400
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 985 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 108_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 985
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0028964
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:02 to load the barcodes from 148_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  75924
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10941 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 148_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10941
+The estimated error rate is 0.00306935
+The overall running time 00:00:17 seconds.
+Running bartender
+
+
