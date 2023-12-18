@@ -1,0 +1,180 @@
+Totally there are 394947 reads in 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.fastq file!
+Totally there are 384572 valid barcodes from 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.fastq file
+Totally there are 369743 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000554123
+00:00:03Running bartender extractor
+both
+bartender_extractor 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.fastq 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 357417 reads in 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.fastq file!
+Totally there are 347967 valid barcodes from 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.fastq file
+Totally there are 333515 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000615576
+00:00:03Running bartender extractor
+both
+bartender_extractor 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.fastq 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 410226 reads in 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.fastq file!
+Totally there are 399883 valid barcodes from 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.fastq file
+Totally there are 385493 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000619431
+00:00:03Running bartender extractor
+both
+bartender_extractor 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.fastq 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 150891 reads in 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.fastq file!
+Totally there are 146666 valid barcodes from 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.fastq file
+Totally there are 139345 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000491593
+00:00:01Running bartender extractor
+both
+bartender_extractor 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.fastq 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 517635 reads in 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.fastq file!
+Totally there are 504409 valid barcodes from 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.fastq file
+Totally there are 484326 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000560656
+00:00:04Running bartender extractor
+both
+bartender_extractor 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.fastq 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 173281 reads in 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.fastq file!
+Totally there are 168420 valid barcodes from 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.fastq file
+Totally there are 162056 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000601473
+00:00:01Running bartender extractor
+both
+bartender_extractor 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.fastq 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 325701 reads in 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.fastq file!
+Totally there are 317352 valid barcodes from 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.fastq file
+Totally there are 304618 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000583264
+00:00:03Running bartender extractor
+both
+bartender_extractor 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.fastq 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 152593 reads in 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.fastq file!
+Totally there are 148368 valid barcodes from 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.fastq file
+Totally there are 140105 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000617384
+00:00:02Running bartender extractor
+both
+bartender_extractor 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.fastq 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 254937 reads in 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.fastq file!
+Totally there are 248536 valid barcodes from 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.fastq file
+Totally there are 238983 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000483632
+00:00:02Running bartender extractor
+both
+bartender_extractor 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.fastq 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 381763 reads in 19_GM17_Mix_inoculum_S19_L001_R1_001.fastq file!
+Totally there are 371036 valid barcodes from 19_GM17_Mix_inoculum_S19_L001_R1_001.fastq file
+Totally there are 356150 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000612609
+00:00:03Running bartender extractor
+both
+bartender_extractor 19_GM17_Mix_inoculum_S19_L001_R1_001.fastq 19_GM17_Mix_inoculum_S19_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 58129 reads in 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.fastq file!
+Totally there are 56544 valid barcodes from 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.fastq file
+Totally there are 50917 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.00060307
+00:00:01Running bartender extractor
+both
+bartender_extractor 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.fastq 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 250979 reads in 20_All_3_Mix_inoculum_S20_L001_R1_001.fastq file!
+Totally there are 243632 valid barcodes from 20_All_3_Mix_inoculum_S20_L001_R1_001.fastq file
+Totally there are 235394 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000582846
+00:00:02Running bartender extractor
+both
+bartender_extractor 20_All_3_Mix_inoculum_S20_L001_R1_001.fastq 20_All_3_Mix_inoculum_S20_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 370763 reads in 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.fastq file!
+Totally there are 361408 valid barcodes from 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.fastq file
+Totally there are 347331 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000601536
+00:00:03Running bartender extractor
+both
+bartender_extractor 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.fastq 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 302560 reads in 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.fastq file!
+Totally there are 293913 valid barcodes from 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.fastq file
+Totally there are 283243 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000484157
+00:00:03Running bartender extractor
+both
+bartender_extractor 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.fastq 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 464862 reads in 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.fastq file!
+Totally there are 451557 valid barcodes from 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.fastq file
+Totally there are 434454 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000601032
+00:00:03Running bartender extractor
+both
+bartender_extractor 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.fastq 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 71001 reads in 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.fastq file!
+Totally there are 69044 valid barcodes from 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.fastq file
+Totally there are 64776 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000643068
+00:00:01Running bartender extractor
+both
+bartender_extractor 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.fastq 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 300154 reads in 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.fastq file!
+Totally there are 291475 valid barcodes from 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.fastq file
+Totally there are 279063 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000561969
+00:00:03Running bartender extractor
+both
+bartender_extractor 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.fastq 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 353142 reads in 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.fastq file!
+Totally there are 344174 valid barcodes from 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.fastq file
+Totally there are 332116 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000601731
+00:00:03Running bartender extractor
+both
+bartender_extractor 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.fastq 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 381143 reads in 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.fastq file!
+Totally there are 371172 valid barcodes from 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.fastq file
+Totally there are 357539 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000521052
+00:00:03Running bartender extractor
+both
+bartender_extractor 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.fastq 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+
+Totally there are 8852 reads in 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.fastq file!
+Totally there are 8575 valid barcodes from 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.fastq file
+Totally there are 6371 valid barcodes whose quality pass the quality condition 
+The estimated sequence error from the prefix and suffix parts is 0.000746356
+00:00:00Running bartender extractor
+both
+bartender_extractor 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.fastq 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.extract 63 "(TCTC.|TCT.T|TC.CT|T.TCT|.CTCT)([ATCGN]{20})(CGTA.|CGT.C|CG.AC|C.TAC|.GTAC)" TCTCT CGTAC 3 0  
+
+

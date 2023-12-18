@@ -1,0 +1,9 @@
+- Create metadata spreadsheets (one for libraries and one for each experiment)
+- Collect/concatenate sequence files as necessary
+- Calculate read numbers for each samples
+- Incorporate read numbers into metadata spreadsheets
+- Separate libraries and seqs for each experiment in separate directories
+- Separately commence bartender analysis
+- Analyze library_seqs to create a Barcode/Genotype dictionary (barcode_metadata.csv). This includes discarding all barcodes that have more than one genotype assigned to them
+- Copy Barcode/Genotype dictionary to experimental sample analysis directories
+- Anaylze experimental samples

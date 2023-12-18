@@ -1,0 +1,18 @@
+mkdir R2
+mv *_R2_* R2/
+//bartender uses only one read
+
+for f in *.fastq; do echo $f >> read_numbers.txt; less $f | grep "@" | wc -l >> read_numbers.txt; done
+//take read numbers from txt and add to meta_samples.csv
+
+//BARTENDER analysis (https://github.com/LaoZZZZZ/bartender-1.1)
+for f in *.fastq; do bartender_extractor_com -f $f -o $(basename $f .fastq).extract -p TCTCT[20]CGTAC -d both -q ?; printf "\n\n"; done &> bartender_extractor.log
+
+for f in *extract_barcode.txt; do bartender_single_com -f $f -o $(basename $f _barcode.txt).cluster; printf "\n\n"; done &> bartender_single_com.log
+
+mkdir extracts
+mv *.txt extracts/
+mv *_barcode.csv extracts/
+
+//in the following be sure to list parameters in the order of the samples! i.e. 1,2,3,... not 1,10,2,... and DO NOT USE SPACES BETWEEN THE FILES, ONLY COMMAS
+bartender_combiner_com -f 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.extract.cluster_cluster.csv,1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.extract.cluster_quality.csv,2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.extract.cluster_cluster.csv,2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.extract.cluster_quality.csv,3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.extract.cluster_cluster.csv,3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.extract.cluster_quality.csv,4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.extract.cluster_cluster.csv,4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.extract.cluster_quality.csv,5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.extract.cluster_cluster.csv,5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.extract.cluster_quality.csv,6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.extract.cluster_cluster.csv,6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.extract.cluster_quality.csv,7_GM17_Mix_MOPS_SA_S7_L001_R1_001.extract.cluster_cluster.csv,7_GM17_Mix_MOPS_SA_S7_L001_R1_001.extract.cluster_quality.csv,8_GM17_Mix_MOPS_SA_S8_L001_R1_001.extract.cluster_cluster.csv,8_GM17_Mix_MOPS_SA_S8_L001_R1_001.extract.cluster_quality.csv,9_GM17_Mix_MOPS_SA_S9_L001_R1_001.extract.cluster_cluster.csv,9_GM17_Mix_MOPS_SA_S9_L001_R1_001.extract.cluster_quality.csv,10_GM17_OV744_MOPS_SA_S10_L001_R1_001.extract.cluster_cluster.csv,10_GM17_OV744_MOPS_SA_S10_L001_R1_001.extract.cluster_quality.csv,11_GM17_OV744_MOPS_SA_S11_L001_R1_001.extract.cluster_cluster.csv,11_GM17_OV744_MOPS_SA_S11_L001_R1_001.extract.cluster_quality.csv,12_GM17_OV744_MOPS_SA_S12_L001_R1_001.extract.cluster_cluster.csv,12_GM17_OV744_MOPS_SA_S12_L001_R1_001.extract.cluster_quality.csv,13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.extract.cluster_cluster.csv,13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.extract.cluster_quality.csv,14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.extract.cluster_cluster.csv,14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.extract.cluster_quality.csv,15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.extract.cluster_cluster.csv,15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.extract.cluster_quality.csv,16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.extract.cluster_cluster.csv,16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.extract.cluster_quality.csv,17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.extract.cluster_cluster.csv,17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.extract.cluster_quality.csv,18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.extract.cluster_cluster.csv,18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.extract.cluster_quality.csv,19_GM17_Mix_inoculum_S19_L001_R1_001.extract.cluster_cluster.csv,19_GM17_Mix_inoculum_S19_L001_R1_001.extract.cluster_quality.csv,20_All_3_Mix_inoculum_S20_L001_R1_001.extract.cluster_cluster.csv,20_All_3_Mix_inoculum_S20_L001_R1_001.extract.cluster_quality.csv -o control_exp -c 1 &> bartender_combiner.log

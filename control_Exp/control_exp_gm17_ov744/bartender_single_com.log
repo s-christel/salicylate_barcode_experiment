@@ -1,0 +1,520 @@
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15984
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10371 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 10_GM17_OV744_MOPS_SA_S10_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10371
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000841727
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15898
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10297 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 11_GM17_OV744_MOPS_SA_S11_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10297
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000921068
+The overall running time 00:00:02 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  16384
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10076 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 12_GM17_OV744_MOPS_SA_S12_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10076
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000918353
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12842
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10226 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 13_GM17_Mix_MPS_Salicin_S13_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10226
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000952813
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  17804
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10211 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 14_GM17_Mix_MPS_Salicin_S14_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10211
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000887834
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:01 to load the barcodes from 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12856
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10307 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 15_GM17_Mix_MPS_Salicin_S15_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10307
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000822955
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14883
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 9823 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 16_GM17_OV744_MPS_Salicin_S16_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 9823
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00092929
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  12951
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10160 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 17_GM17_OV744_MPS_Salicin_S17_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10160
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00104128
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  13289
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 9662 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 18_GM17_OV744_MPS_Salicin_S18_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 9662
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000821488
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 19_GM17_Mix_inoculum_S19_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  16097
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10553 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 19_GM17_Mix_inoculum_S19_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10553
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000836927
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  10138
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 8904 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 1_GM17_Mix_MOPS_glucose_S1_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 8904
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0012138
+The overall running time 00:00:00 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 20_All_3_Mix_inoculum_S20_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14453
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10381 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 20_All_3_Mix_inoculum_S20_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10381
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000906865
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15085
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 9809 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 2_GM17_Mix_MOPS_glucose_S2_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 9809
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000853223
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14554
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10473 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 3_GM17_Mix_MOPS_glucose_S3_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10473
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000760377
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  17573
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10613 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 4_GM17_OV744_MOPS_glucose_S4_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10613
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000870417
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  10772
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 9475 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 5_GM17_OV744_MOPS_glucose_S5_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 9475
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.00108297
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  14990
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10496 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 6_GM17_OV744_MOPS_glucose_S6_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10496
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000847654
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15288
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10256 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 7_GM17_Mix_MOPS_SA_S7_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10256
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000831678
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  15671
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 10043 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 8_GM17_Mix_MOPS_SA_S8_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 10043
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.000873155
+The overall running time 00:00:01 seconds.
+Running bartender
+
+
+Loading barcodes from the file
+It takes 00:00:00 to load the barcodes from 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.extract_barcode.txt
+Shortest barcode length: 20
+Longest barcode length: 20
+Start to group barcode with length 20
+Using two sample unpooled test
+Transforming the barcodes into seed clusters
+Initial number of unique reads:  3780
+The distance threshold is 2
+Clustering iteration 1
+Clustering iteration 2
+Clustering iteration 3
+Clustering iteration 4
+Identified 3597 barcodes with length 20
+The clustering process takes 00:00:00
+Start to dump clusters to file with prefix 9_GM17_Mix_MOPS_SA_S9_L001_R1_001.extract.cluster
+Start to remove pcr effects
+***(Overall error rate estimated from the clustering result)***
+Total number of clusters after removing PCR effects: 3597
+Could not collect enough barcodes from high quality clusters(max entropy < 0.33, cluster size >= 20 ) to estimate the error rate!
+The estimated error rate might not be accurate and reliable!
+The estimated error rate is 0.0011828
+The overall running time 00:00:00 seconds.
+Running bartender
+
+

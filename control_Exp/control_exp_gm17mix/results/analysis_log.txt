@@ -1,0 +1,39 @@
+
+
+----------
+Chosen barcode percentage cutoff:
+[1] 0
+
+
+----------
+Reading in Bartender files
+Reading in metadata
+[1] "sample_metadata_complete_corrected.csv"
+[1] "barcode_metadata.csv"
+
+
+----------
+Counting samples
+[1] 20
+
+
+----------
+Data shuffling
+
+
+----------
+Plotting
+
+
+----------
+Loading libraries
+DEBUG MODE - DEBUG MODE - DEBUG MODE - DEBUG MODE - DEBUG MODE
+
+
+----------
+Creating results directory
+
+
+----------
+Chosen barcode percentage cutoff:
+[1] 0

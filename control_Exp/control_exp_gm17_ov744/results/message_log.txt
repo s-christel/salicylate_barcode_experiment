@@ -1,0 +1,121 @@
+Error in `select()`:
+! Can't subset columns that don't exist.
+✖ Column `Structure` doesn't exist.
+Run `]8;;rstudio:run:rlang::last_error()rlang::last_error()]8;;` to see where the error occurred.
+Error in `select()`:
+! Can't subset columns that don't exist.
+✖ Column `Structure` doesn't exist.
+Run `]8;;rstudio:run:rlang::last_error()rlang::last_error()]8;;` to see where the error occurred.
+Error in `select()`:
+! Can't subset columns that don't exist.
+✖ Column `Structure` doesn't exist.
+Run `]8;;rstudio:run:rlang::last_error()rlang::last_error()]8;;` to see where the error occurred.
+Error in `combine_vars()`:
+! At least one layer must contain all faceting variables: `Type`.
+* Plot is missing `Type`
+* Layer 1 is missing `Type`
+Run `]8;;rstudio:run:rlang::last_error()rlang::last_error()]8;;` to see where the error occurred.
+Error in `combine_vars()`:
+! At least one layer must contain all faceting variables: `Type`.
+* Plot is missing `Type`
+* Layer 1 is missing `Type`
+Run `]8;;rstudio:run:rlang::last_error()rlang::last_error()]8;;` to see where the error occurred.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'. You can override using the
+`.groups` argument.
+Error: Specify 'Bartender' output file prefix (e.g. 'all_samples'), threshold barcode relative abundance in percent (e.g. '2'), metadata file for samples, and metadata file for barcodes. 4 Parameters total.
+Error: Specify 'Bartender' output file prefix (e.g. 'all_samples'), threshold barcode relative abundance in percent (e.g. '2'), metadata file for samples, and metadata file for barcodes. 4 Parameters total.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'Library'. You can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Substrate'. You can override using the
+`.groups` argument.
+Joining, by = "Center"
+Joining, by = "Sample"
+Warning messages:
+1: In rm(temp, list_Mediums, list_Substrates) : object 'temp' not found
+2: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Mediums' not found
+3: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Substrates' not found
+Warning message:
+In xtfrm.data.frame(x) : cannot xtfrm data frames
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You
+can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'.
+You can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library'. You can override using
+the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate',
+'Substrate'. You can override using the `.groups` argument.
+Joining, by = "Center"
+Joining, by = "Sample"
+Warning messages:
+1: In rm(temp, list_Mediums, list_Substrates) : object 'temp' not found
+2: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Mediums' not found
+3: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Substrates' not found
+User cancelled quit operation
+
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You
+can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'.
+You can override using the `.groups` argument.
+Error in `combine_vars()`:
+! Faceting variables must have at least one value
+Run `rlang::last_error()` to see where the error occurred.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You
+can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'.
+You can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library'. You can override using
+the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate',
+'Substrate'. You can override using the `.groups` argument.
+Joining, by = "Center"
+Joining, by = "Sample"
+Warning messages:
+1: In rm(temp, list_Mediums, list_Substrates) : object 'temp' not found
+2: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Mediums' not found
+3: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Substrates' not found
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You
+can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'.
+You can override using the `.groups` argument.
+`summarise()` has grouped output by 'Library'. You can override using
+the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate',
+'Substrate'. You can override using the `.groups` argument.
+Joining, by = "Center"
+Joining, by = "Sample"
+Warning messages:
+1: In rm(temp, list_Mediums, list_Substrates) : object 'temp' not found
+2: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Mediums' not found
+3: In rm(temp, list_Mediums, list_Substrates) :
+  object 'list_Substrates' not found
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Sample', 'Medium'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'Library', 'Replicate', 'Medium'. You can
+override using the `.groups` argument.
+Error in `combine_vars()`:
+! Faceting variables must have at least one value
+Run `rlang::last_error()` to see where the error occurred.
+`summarise()` has grouped output by 'Library'. You can override using the `.groups`
+argument.
